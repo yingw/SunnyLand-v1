@@ -13,22 +13,22 @@ B站 m_Studio 的教程 [Unity教程 入门第一款游戏制作](https://space.
 - [x] 09 镜头控制Cinemachine
 - [x] 10 物品收集 & Perfabs
 - [ ] 11 物理材质&空中跳跃
-- [ ] 12 UI入门
-- [ ] 13 敌人Enemy!
-- [ ] 14 受伤效果Hurt
-- [ ] 15 AI敌人移动
-- [ ] 16 Animation Events
-- [ ] 17 Class调用(互动包括老鹰制作)
-- [ ] 18 音效Audio
-- [ ] 19 对话框Dialog
-- [ ] 20 趴下效果Crouch
-- [ ] 21 场景控制SceneManager
-- [ ] 22 2D光效(ver. Unity2018)
-- [ ] 23 优化代码Fix code
-- [ ] 24 视觉差Parallax
-- [ ] 25 主菜单MainMenu
+- [x] 12 UI入门
+- [x] 13 敌人Enemy!
+- [x] 14 受伤效果Hurt
+- [x] 15 AI敌人移动
+- [x] 16 Animation Events
+- [x] 17 Class调用(互动包括老鹰制作)
+- [x] 18 音效Audio
+- [x] 19 对话框Dialog
+- [x] 20 趴下效果Crouch
+- [x] 21 场景控制SceneManager
+- [x] 22 2D光效(ver. Unity2018)
+- [x] 23 优化代码Fix code
+- [x] 24 视觉差Parallax
+- [x] 25 主菜单MainMenu
 - [ ] 26 暂停菜单 AudioMixer
 - [ ] 27 (2P视频) 手机控制|触控操作|真机测试
 - [ ] 28 二段跳|单向平台
 - [ ] 29 音效管理SoundManager(Static)
-- [ ] 30 End 游戏生成Build
+- [x] 30 End 游戏生成Build
