@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - New tag
+  - "\u6A31\u6843"
+  - "\u654C\u4EBA"
+  - "\u6B7B\u4EA1\u533A\u57DF"
   layers:
   - Default
   - TransparentFX
@@ -13,7 +17,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - "\u5730\u9762"
   - 
   - 
   - 
@@ -40,4 +44,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: "\u80CC\u666F"
+    uniqueID: 896838579
+    locked: 0
+  - name: "\u8FD1\u666F"
+    uniqueID: 46456205
+    locked: 0
+  - name: "\u524D\u666F\uFF08\u4E3B\u8981\uFF09"
+    uniqueID: 1562058499
+    locked: 0
+  - name: "\u524D\u666F"
+    uniqueID: 2131042231
     locked: 0
